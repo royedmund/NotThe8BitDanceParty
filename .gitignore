@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+apple2e/source/DOS_3_3_MASTER.dsk
+apple2e/source/PARTY.bin
+apple2e/source/PARTY.raw
+apple2e/source/MUSIC_SIMULATION.wav
+apple2e/source/assembly_listing.txt
+apple2e/source/symbol_map.json
+apple2e/source/manifest.json
+apple2e/source/ADRIAN_BLACK_DONKEY_KONG_INTRO_V11.dsk
+apple2e/source/ADRIAN_PORTRAIT_PREVIEW.png
