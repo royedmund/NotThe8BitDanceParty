@@ -16,6 +16,8 @@ gzip -dk ADRIAN_BLACK_DONKEY_KONG_INTRO_V11.dsk.gz
 
 On Windows, 7-Zip can extract the `.gz` file. Mount the resulting `.dsk` in Drive 1 on an Apple IIe emulator or use suitable floppy/emulation hardware. Boot from Drive 1. Apple DOS 3.3 automatically executes `HELLO`, which launches `PARTY`. **Press any key** to stop the music and return to DOS.
 
+https://youtu.be/0rz2XmdiCCc?si=GEtnIHl0jI_S6E6W
+
 ## Hardware
 
 | Component | Target |
